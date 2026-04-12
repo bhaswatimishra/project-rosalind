@@ -6,20 +6,6 @@ This repository contains my Python implementations of fundamental bioinformatics
 
 The goal of this project is to build a strong foundation in sequence analysis, algorithmic thinking, and computational biology.
 
-🚀 Implemented Topics
-
-DNA sequence validation
-
-GC content analysis
-
-Complementary strand generation
-
-Hamming distance calculation
-
-RNA transcription and translation
-
-Fibonacci-based population models
-
 🧠 Skills Demonstrated
 
 Python programming
@@ -27,12 +13,6 @@ Python programming
 String manipulation and parsing
 
 Dictionary-based mapping (genetic code)
-
-Problem-solving and algorithm design
-
-Basic bioinformatics concepts
-
-📈 Future Plans
 
 Add more Rosalind problems
 
